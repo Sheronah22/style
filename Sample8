@@ -6,9 +6,9 @@
             </style>
       </head>
       <body>
-            <p>This is a paragraph.</p>
-            <p>This is another paragraph.</p>
-            <span>This is a span.</span>
+            <p id="cyan">This is a paragraph.</p>
+            <p>This is another paragraph. color="blue"</p>
+            <span>This is a span. color="blue"</span>
       </body>
 </html>
             
